@@ -8,7 +8,7 @@ const client = new Client({
   ],
 });
 
-const TOKEN = "MTQ4NjIyMzEyNDk0NDEzMDA2OA.GJK3dU.AsD4DRhMhI7G1UjfIXxeUxJnKfsMfhysP47hyk";
+const TOKEN = "MTQ4NjIyMzEyNDk0NDEzMDA2OA.GJnDUP.w7akY7cWOW_jk41WVc9HZaSQXoQiGP_FZeSrfs";
 const API_KEY = "ptlc_6sMCN6LiRliifjjZTVmL2ctvqDRczeG4Cllu1oG4dF3";
 const SERVER_ID = "64ca9d39";
 const PROXY = "https://controlpanel.espinolamiguel444.workers.dev";
